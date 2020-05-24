@@ -6421,9 +6421,7 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 992px) {
-  .d-lg-none {
-    display: none !important;
-  }
+
 
   .d-lg-inline {
     display: inline !important;
@@ -7371,9 +7369,7 @@ button.bg-dark:focus {
 }
 
 .fixed-top {
-  position: fixed;
-  top: 0;
-  
+  top: 0;  
   z-index: 1030;
 }
 
@@ -10000,7 +9996,6 @@ h3 {
   }
 }
 body {
-  padding-top: 3.375rem;
   color: #6c757d;
 }
 
