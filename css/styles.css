@@ -10002,7 +10002,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    padding-left: 10rem;
   }
 }
 h1,
@@ -10057,7 +10057,7 @@ p.lead {
   }
   #sideNav .navbar-brand .img-profile {
    
-    max-height: 15rem;
+   
     border: 0.2rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
